@@ -78,6 +78,7 @@ display: inline-block;
  border:0px solid rgb(134, 134, 134);
  font-size:20px; 
  background-color: white;
+ transition: 0.08s;
 }
 h2{
     color:#1d1d1f;
