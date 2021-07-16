@@ -106,6 +106,9 @@ h2{
     color:#1d1d1f;
     padding-top: 5;
 }
+.footer a{
+    text-decoration: none;
+}
 /*---------------modal---------*/
 .yo{
 text-align: center;  
