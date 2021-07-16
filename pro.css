@@ -169,6 +169,11 @@ ul li{
     font-size: 22px;
     color: #1d1d1f;
 }
+.fa-github{
+    padding-right: 1%;
+    font-size: 22px;
+    color: #1d1d1f;
+}
 .footnote{
     padding-left: 37%;
     display: inline;
