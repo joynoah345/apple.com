@@ -1,0 +1,178 @@
+body{
+    background-color:black;
+}
+.container{
+    width: 100%;
+    margin-top: 0%;
+    letter-spacing: 1px;
+
+}
+.fa-apple{
+    margin-left: 10px;
+    color:#f5f5f7;
+    padding-right: 35%;
+    margin-left: 150px;
+}
+.me{
+    color: white;
+    display: inline-block;
+    padding-left: 35%;
+    padding-right: 50px;
+}
+.fa-shopping-bag{
+    
+    color:#f5f5f7;
+}
+.fa-search{
+    padding-left: 28%;
+    color:#f5f5f7;
+    padding-right: 50px;
+}
+
+.top{
+display: inline-block;
+    width: 100%;
+    height:30px;
+    position: fixed;
+    background: rgba(0,0,0,0.8);
+    vertical-align: middle;
+    color: #f5f5f7;
+    padding-bottom: 10px;
+   
+    backdrop-filter: saturate(180%) blur(20px);
+}
+
+.container h1{
+  background: rgba(0,0,0,0.8);
+  color: rgb(134, 134, 134);
+  width: 22.5%;
+}
+.col-md-4 p{
+    text;
+}
+.col-md-4{
+    align-items: center;
+    vertical-align: center;
+    align-content: center;
+    text-align: center;
+    padding-right: 15px;
+    padding-bottom: 50px;
+
+}
+.fa-circle{
+    padding-bottom: 20px;
+}
+.buy{
+    text-decoration: none;
+    cursor: pointer;
+    background:#0071e3;
+    color:#fff;
+    font-size: 15px;
+    border-radius: 35px;
+    padding: 4px 11px 4px 11px;
+    text-align: center;
+    border-style: none;
+}
+.col-md-4:hover, .col-md-4:active{
+ content:' ';
+ border:0px solid rgb(134, 134, 134);
+ font-size:20px; 
+ background-color: white;
+}
+h2{
+    color:#1d1d1f;
+}
+.infoot{
+    max-width: 980px;
+    margin: 0 auto;
+}
+.infoot  p{
+    padding-bottom: 2em;
+    padding-top: 2%;
+}
+.footer 
+{
+    position: relative;
+    background-color:#f5f5f7;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;;
+    height:320px;
+    line-height: 1.33337;
+    font-size: 18px;
+    font-weight: 400;
+    min-width: 1024 px;
+    letter-spacing: -.01em;
+    padding:0 22px;
+    color:#1d1d1f;
+    padding-top: 5;
+}
+/*---------------modal---------*/
+.yo{
+text-align: center;  
+  letter-spacing: 1px;
+  font-weight: italic;
+}
+.modal-body .fas{
+    font-size: 50px;
+}
+.under
+{
+    font-size: 12px;
+}
+ul li{
+    list-style: none;
+    text-decoration: none;
+    font-size: 17px;
+    padding-bottom: 1%;
+}
+.contact{
+    display: block;
+}
+.list1{
+    width: 50%;
+    text-align: left;;
+    float: left;
+}
+.list2{
+    width: 50%;
+    float: right;
+}
+.fa-whatsapp{
+    padding-right: 1%;
+    padding-bottom: 4%;
+    font-size: 22px;
+    color: #1d1d1f;
+}
+.fa-twitter{
+    padding-right: 1%;
+    padding-bottom: 4%;
+    font-size: 22px;
+    color: #1d1d1f;
+}
+.fa-envelope{
+    padding-right: 1%;
+    padding-bottom: 4%;
+    font-size: 22px;
+    color: #1d1d1f;
+}
+.fa-map-marker-alt{
+    padding-right: 1%;
+    font-size: 22px;
+    color: #1d1d1f;
+}
+.fa-linkedin-in{
+    padding-right: 1%;
+    padding-bottom: 4%;
+    font-size: 22px;
+    color: #1d1d1f;
+}
+.footnote{
+    padding-left: 37%;
+    display: inline;
+    text-align: center;
+    font-size: 12px;
+}
+.footnote a{
+    text-decoration: none;
+    color:#1d1d1f;
+}
+
